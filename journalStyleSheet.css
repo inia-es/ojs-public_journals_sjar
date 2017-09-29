@@ -187,3 +187,7 @@ div#journalDescription {
 div.homepageizq {
 	margin-left:500px;
 }
+
+select.selectMenu[name="section"] {
+	max-width: 250px;
+}
